@@ -1,0 +1,50 @@
+E:\Documents\Projects\VB 2008\samplePCSC\samplePCSC\bin\Debug\samplePCSC.exe
+E:\Documents\Projects\VB 2008\samplePCSC\samplePCSC\bin\Debug\samplePCSC.pdb
+E:\Documents\Projects\VB 2008\samplePCSC\samplePCSC\bin\Debug\samplePCSC.xml
+E:\Documents\Projects\VB 2008\samplePCSC\samplePCSC\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents\Projects\VB 2008\samplePCSC\samplePCSC\obj\Debug\samplePCSC.frmMain.resources
+E:\Documents\Projects\VB 2008\samplePCSC\samplePCSC\obj\Debug\samplePCSC.Resources.resources
+E:\Documents\Projects\VB 2008\samplePCSC\samplePCSC\obj\Debug\samplePCSC.vbproj.GenerateResource.Cache
+E:\Documents\Projects\VB 2008\samplePCSC\samplePCSC\obj\Debug\samplePCSC.exe
+E:\Documents\Projects\VB 2008\samplePCSC\samplePCSC\obj\Debug\samplePCSC.xml
+E:\Documents\Projects\VB 2008\samplePCSC\samplePCSC\obj\Debug\samplePCSC.pdb
+D:\Documents\Projects\VB 2008\samplePCSC\samplePCSC\obj\Debug\samplePCSC.exe
+D:\Documents\Projects\VB 2008\samplePCSC\samplePCSC\obj\Debug\samplePCSC.xml
+D:\Documents\Projects\VB 2008\samplePCSC\samplePCSC\obj\Debug\samplePCSC.pdb
+D:\Documents\Projects\VB 2008\samplePCSC\samplePCSC\bin\Debug\samplePCSC.exe
+D:\Documents\Projects\VB 2008\samplePCSC\samplePCSC\bin\Debug\samplePCSC.pdb
+D:\Documents\Projects\VB 2008\samplePCSC\samplePCSC\bin\Debug\samplePCSC.xml
+D:\Documents\Projects\VB 2008\samplePCSC\samplePCSC\obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Projects\VB 2008\samplePCSC\samplePCSC\obj\Debug\samplePCSC.frmMain.resources
+D:\Documents\Projects\VB 2008\samplePCSC\samplePCSC\obj\Debug\samplePCSC.Resources.resources
+D:\Documents\Projects\VB 2008\samplePCSC\samplePCSC\obj\Debug\samplePCSC.vbproj.GenerateResource.Cache
+E:\Projects\samplePCSC\samplePCSC\obj\Debug\samplePCSC.exe
+E:\Projects\samplePCSC\samplePCSC\obj\Debug\samplePCSC.xml
+E:\Projects\samplePCSC\samplePCSC\obj\Debug\samplePCSC.pdb
+E:\Projects\samplePCSC\samplePCSC\bin\Debug\samplePCSC.exe
+E:\Projects\samplePCSC\samplePCSC\bin\Debug\samplePCSC.pdb
+E:\Projects\samplePCSC\samplePCSC\bin\Debug\samplePCSC.xml
+E:\Projects\samplePCSC\samplePCSC\obj\Debug\samplePCSC.frmMain.resources
+E:\Projects\samplePCSC\samplePCSC\obj\Debug\samplePCSC.Resources.resources
+E:\Projects\samplePCSC\samplePCSC\obj\Debug\samplePCSC.vbproj.GenerateResource.Cache
+D:\EDEL\ACC\Projects\samplePCSC\samplePCSC\obj\Debug\samplePCSC.exe
+D:\EDEL\ACC\Projects\samplePCSC\samplePCSC\obj\Debug\samplePCSC.xml
+D:\EDEL\ACC\Projects\samplePCSC\samplePCSC\obj\Debug\samplePCSC.pdb
+D:\EDEL\ACC\Projects\samplePCSC\samplePCSC\bin\Debug\samplePCSC.exe
+D:\EDEL\ACC\Projects\samplePCSC\samplePCSC\bin\Debug\samplePCSC.pdb
+D:\EDEL\ACC\Projects\samplePCSC\samplePCSC\bin\Debug\samplePCSC.xml
+D:\EDEL\ACC\Projects\samplePCSC\samplePCSC\obj\Debug\samplePCSC.frmMain.resources
+D:\EDEL\ACC\Projects\samplePCSC\samplePCSC\obj\Debug\samplePCSC.Resources.resources
+D:\EDEL\ACC\Projects\samplePCSC\samplePCSC\obj\Debug\samplePCSC.vbproj.GenerateResource.Cache
+E:\Projects\samplePCSC\samplePCSC\obj\Debug\samplePCSC.vbprojResolveAssemblyReference.cache
+D:\WORK\Projects\samplePCSC\samplePCSC\bin\Debug\samplePCSC.exe
+D:\WORK\Projects\samplePCSC\samplePCSC\bin\Debug\samplePCSC.pdb
+D:\WORK\Projects\samplePCSC\samplePCSC\bin\Debug\samplePCSC.xml
+D:\WORK\Projects\samplePCSC\samplePCSC\obj\Debug\samplePCSC.vbprojAssemblyReference.cache
+D:\WORK\Projects\samplePCSC\samplePCSC\obj\Debug\samplePCSC.frmMain.resources
+D:\WORK\Projects\samplePCSC\samplePCSC\obj\Debug\samplePCSC.Resources.resources
+D:\WORK\Projects\samplePCSC\samplePCSC\obj\Debug\samplePCSC.vbproj.GenerateResource.cache
+D:\WORK\Projects\samplePCSC\samplePCSC\obj\Debug\samplePCSC.vbproj.CoreCompileInputs.cache
+D:\WORK\Projects\samplePCSC\samplePCSC\obj\Debug\samplePCSC.exe
+D:\WORK\Projects\samplePCSC\samplePCSC\obj\Debug\samplePCSC.xml
+D:\WORK\Projects\samplePCSC\samplePCSC\obj\Debug\samplePCSC.pdb

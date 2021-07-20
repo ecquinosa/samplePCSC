@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="samplePCSC">
+</Property><Property Name="Solution File" Value="D:\EDEL\ACC\Projects\samplePCSC\samplePCSC.sln">
+</Property><Property Name="User Options File" Value="D:\EDEL\ACC\Projects\samplePCSC\samplePCSC.suo">
+</Property><Property Name="Date" Value="Friday, November 28, 2014">
+</Property><Property Name="Time" Value="14:28 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="samplePCSC.sln" Description="File successfully backed up as D:\EDEL\ACC\Projects\samplePCSC\Backup\samplePCSC.sln">
+</Event><Event ErrorLevel="0" Project="" Source="samplePCSC.suo" Description="File successfully backed up as D:\EDEL\ACC\Projects\samplePCSC\Backup\samplePCSC.suo">
+</Event><Event ErrorLevel="0" Project="samplePCSC" Source="samplePCSC\samplePCSC.vbproj" Description="Project file successfully backed up as D:\EDEL\ACC\Projects\samplePCSC\Backup\samplePCSC\samplePCSC.vbproj">
+</Event><Event ErrorLevel="0" Project="samplePCSC" Source="samplePCSC\samplePCSC.vbproj.user" Description="Project user file successfully backed up as D:\EDEL\ACC\Projects\samplePCSC\Backup\samplePCSC\samplePCSC.vbproj.user">
+</Event><Event ErrorLevel="0" Project="samplePCSC" Source="samplePCSC\frmMain.vb" Description="File successfully backed up as D:\EDEL\ACC\Projects\samplePCSC\Backup\samplePCSC\frmMain.vb">
+</Event><Event ErrorLevel="0" Project="samplePCSC" Source="samplePCSC\frmMain.Designer.vb" Description="File successfully backed up as D:\EDEL\ACC\Projects\samplePCSC\Backup\samplePCSC\frmMain.Designer.vb">
+</Event><Event ErrorLevel="0" Project="samplePCSC" Source="samplePCSC\My Project\AssemblyInfo.vb" Description="File successfully backed up as D:\EDEL\ACC\Projects\samplePCSC\Backup\samplePCSC\My Project\AssemblyInfo.vb">
+</Event><Event ErrorLevel="0" Project="samplePCSC" Source="samplePCSC\My Project\Application.Designer.vb" Description="File successfully backed up as D:\EDEL\ACC\Projects\samplePCSC\Backup\samplePCSC\My Project\Application.Designer.vb">
+</Event><Event ErrorLevel="0" Project="samplePCSC" Source="samplePCSC\My Project\Resources.Designer.vb" Description="File successfully backed up as D:\EDEL\ACC\Projects\samplePCSC\Backup\samplePCSC\My Project\Resources.Designer.vb">
+</Event><Event ErrorLevel="0" Project="samplePCSC" Source="samplePCSC\My Project\Settings.Designer.vb" Description="File successfully backed up as D:\EDEL\ACC\Projects\samplePCSC\Backup\samplePCSC\My Project\Settings.Designer.vb">
+</Event><Event ErrorLevel="0" Project="samplePCSC" Source="samplePCSC\SCard\ClassDES.vb" Description="File successfully backed up as D:\EDEL\ACC\Projects\samplePCSC\Backup\samplePCSC\SCard\ClassDES.vb">
+</Event><Event ErrorLevel="0" Project="samplePCSC" Source="samplePCSC\SCard\ConversionRoutine.vb" Description="File successfully backed up as D:\EDEL\ACC\Projects\samplePCSC\Backup\samplePCSC\SCard\ConversionRoutine.vb">
+</Event><Event ErrorLevel="0" Project="samplePCSC" Source="samplePCSC\SCard\ModWinsCard.vb" Description="File successfully backed up as D:\EDEL\ACC\Projects\samplePCSC\Backup\samplePCSC\SCard\ModWinsCard.vb">
+</Event><Event ErrorLevel="0" Project="samplePCSC" Source="samplePCSC\SCard\PCSCRoutines.vb" Description="File successfully backed up as D:\EDEL\ACC\Projects\samplePCSC\Backup\samplePCSC\SCard\PCSCRoutines.vb">
+</Event><Event ErrorLevel="0" Project="samplePCSC" Source="samplePCSC\My Project\Application.myapp" Description="File successfully backed up as D:\EDEL\ACC\Projects\samplePCSC\Backup\samplePCSC\My Project\Application.myapp">
+</Event><Event ErrorLevel="0" Project="samplePCSC" Source="samplePCSC\My Project\Settings.settings" Description="File successfully backed up as D:\EDEL\ACC\Projects\samplePCSC\Backup\samplePCSC\My Project\Settings.settings">
+</Event><Event ErrorLevel="0" Project="samplePCSC" Source="samplePCSC\frmMain.resx" Description="File successfully backed up as D:\EDEL\ACC\Projects\samplePCSC\Backup\samplePCSC\frmMain.resx">
+</Event><Event ErrorLevel="0" Project="samplePCSC" Source="samplePCSC\My Project\Resources.resx" Description="File successfully backed up as D:\EDEL\ACC\Projects\samplePCSC\Backup\samplePCSC\My Project\Resources.resx">
+</Event><Event ErrorLevel="0" Project="samplePCSC" Source="samplePCSC\samplePCSC.vbproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="samplePCSC" Source="samplePCSC\samplePCSC.vbproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="samplePCSC.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="samplePCSC.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="samplePCSC" Source="samplePCSC\samplePCSC.vbproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
